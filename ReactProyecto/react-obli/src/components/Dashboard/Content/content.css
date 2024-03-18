@@ -1,0 +1,33 @@
+.contenido {
+  border-radius: 8px;
+}
+
+.navBar {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.navBar {
+  border-radius: 8px;
+}
+
+.menu {
+  list-style-type: none;
+  li {
+    padding: 5px;
+  }
+}
+.agregarPersona {
+  height: 90vh !important;
+}
+.linkMenu {
+  background: none;
+  border: none;
+}
+.logoCenso{
+    width: 150px;
+    margin-left: 60px;
+}
+.countdown{
+    border-radius: 8px;
+}
